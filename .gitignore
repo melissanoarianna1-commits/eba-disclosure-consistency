@@ -1,0 +1,14 @@
+.env
+*.env
+api_key.txt
+data/banks/
+data/*.zip
+data/*.7z
+output/
+*.csv
+__pycache__/
+*.py[cod]
+.DS_Store
+.ipynb_checkpoints/
+.vscode/
+.idea/
